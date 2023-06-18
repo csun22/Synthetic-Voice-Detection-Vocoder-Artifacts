@@ -18,5 +18,6 @@ This is the framework of the proposed synthesized voice detection method:
 
 # Paper & Dataset
 For more details please read our paper: **https://arxiv.org/abs/2304.13085**
+
 For more details please download our dataset: **https://drive.google.com/file/d/1NXF9w0YxzVjIAwGm_9Ku7wfLHVbsT7aG/view**
 
