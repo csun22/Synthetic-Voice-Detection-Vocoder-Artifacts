@@ -17,7 +17,7 @@ This is the framework of the proposed synthesized voice detection method:
    <img width="1000" alt="image" src="https://github.com/csun22/Synthetic-Voice-Detection-Vocoder-Artifacts/assets/90001788/c46df06b-6d62-4b0f-a9d2-f5ffc4e378b9">
 
 # Paper & Dataset
-For more details please read our paper: **https://arxiv.org/abs/2304.13085**
+For more details please read our paper: **https://openaccess.thecvf.com/content/CVPR2023W/WMF/html/Sun_AI-Synthesized_Voice_Detection_Using_Neural_Vocoder_Artifacts_CVPRW_2023_paper.html**
 
 For more details please download our dataset: **https://drive.google.com/file/d/1NXF9w0YxzVjIAwGm_9Ku7wfLHVbsT7aG/view**
 
