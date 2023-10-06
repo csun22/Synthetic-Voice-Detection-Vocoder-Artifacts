@@ -8,7 +8,7 @@
 2. We provide LibriSeVoC as a dataset of self-vocoding samples created with six state-of-the-art vocoders to highlight and exploit the vocoder artifacts.
    The composition of data set is shown in the following table:
    <img width="1000" alt="image" src="https://github.com/csun22/Synthetic-Voice-Detection-Vocoder-Artifacts/assets/90001788/c74fdb20-a5b7-4109-b833-821dd8dd6230">
-The source of our dataset ground truth comes from LibriTTS.
+The source of our dataset ground truth comes from LibriTTS. Therefore, we follow the naming logic of LibriTTS. For example: 27_123349_000006_000000.wav, 27 is the ID of the reader, and 123349 is the ID of chapter.
 
 
 # Deepfake Detection
