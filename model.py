@@ -8,10 +8,6 @@ from collections import OrderedDict
 from torch.nn.parameter import Parameter
 
 
-___author__ = "Hemlata Tak"
-__email__ = "tak@eurecom.fr"
-
-
 class SincConv(nn.Module):
     @staticmethod
     def to_mel(hz):
@@ -255,20 +251,16 @@ class RawNet(nn.Module):
         self.gru.flatten_parameters()
         x, _ = self.gru(x)
         x = x[:,-1,:]
-        #print(x.shape)
+
         x_binary = self.fc1_binary_gru(x)
         x_binary = self.fc2_binary_gru(x_binary)
-        #print(x_binary.shape)
+
         output_binary = self.logsoftmax(x_binary)
-        #print(output_binary.shape)
         
         x_multi = self.fc1_multi_gru(x)
         x_multi = self.fc2_multi_gru(x_multi)
-        #print(x_multi.shape)
+
         output_multi = self.logsoftmax(x_multi)
-        #print(output_multi.shape)
-        
-        #print("end forward")
       
         return output_binary, output_multi
         
