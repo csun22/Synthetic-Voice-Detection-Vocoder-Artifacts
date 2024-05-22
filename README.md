@@ -21,3 +21,8 @@ For more details please read our paper: **https://openaccess.thecvf.com/content/
 
 For more details please download our dataset: **https://drive.google.com/file/d/1NXF9w0YxzVjIAwGm_9Ku7wfLHVbsT7aG/view**
 
+# To train the model run:
+‘’‘
+python main.py --data_path /your/path/to/LibriSeVoc/ --model_save_path /your/path/to/models/
+’‘’
+
