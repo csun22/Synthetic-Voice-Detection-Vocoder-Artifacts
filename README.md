@@ -25,6 +25,10 @@ For more details, please download our dataset: **https://drive.google.com/file/d
 
 python main.py --data_path /your/path/to/LibriSeVoc/ --model_save_path /your/path/to/models/
 
+# To test with your sample run:
+
+python eval.py --input_path /your/path/to/sample.wav --model_path /your/path/to/your_model.pth
+
 # In the wild testing:
 
 Test on our Lab's Deepfake O Meter: https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page
