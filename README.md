@@ -29,6 +29,9 @@ python main.py --data_path /your/path/to/LibriSeVoc/ --model_save_path /your/pat
 
 python eval.py --input_path /your/path/to/sample.wav --model_path /your/path/to/your_model.pth
 
+# The weight of the trained model:
+https://drive.google.com/file/d/1TWdsCFKP2luAfhpB91N9X4z1gsJMvvhI/view?usp=drive_link
+
 # In the wild testing:
 
 Test on our Lab's Deepfake O Meter: https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page
