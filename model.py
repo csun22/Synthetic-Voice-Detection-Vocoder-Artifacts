@@ -18,7 +18,7 @@ class SincConv(nn.Module):
         return 700 * (10 ** (mel / 2595) - 1)
 
 
-    def __init__(self, device,out_channels, kernel_size,in_channels=1,sample_rate=16000,
+    def __init__(self, device,out_channels, kernel_size,in_channels=1,sample_rate=24000,
                  stride=1, padding=0, dilation=1, bias=False, groups=1):
 
         super(SincConv,self).__init__()
