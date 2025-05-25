@@ -72,4 +72,5 @@ https://drive.google.com/file/d/1TWdsCFKP2luAfhpB91N9X4z1gsJMvvhI/view?usp=drive
 
 You can test audio samples live on our lab's Deepfake O Meter platform:
 
-Test on our Lab's Deepfake O Meter: https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page
+```bash
+https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page
