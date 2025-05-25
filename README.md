@@ -53,16 +53,23 @@ Here is the framework of the proposed synthesized voice detection method:
 
 ```bash
 python main.py --data_path /your/path/to/LibriSeVoc/ --model_save_path /your/path/to/models/
+```
 
 ### 🧪 To test with your sample, run:
 
 ```bash
 python eval.py --input_path /your/path/to/sample.wav --model_path /your/path/to/your_model.pth
+```
 
+### 📥 Pretrained Model Weights
 
-# The weight of the trained model:
+Download the trained model weights from the link below:
+```bash
 https://drive.google.com/file/d/1TWdsCFKP2luAfhpB91N9X4z1gsJMvvhI/view?usp=drive_link
+```
 
-# In the wild testing:
+### 🌐 In-the-Wild Testing
+
+You can test audio samples live on our lab's Deepfake O Meter platform:
 
 Test on our Lab's Deepfake O Meter: https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page
