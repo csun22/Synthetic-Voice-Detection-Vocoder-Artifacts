@@ -74,3 +74,11 @@ You can test audio samples live on our lab's Deepfake O Meter platform:
 
 ```bash
 https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page
+```
+
+## 📄 License
+
+This repository is licensed under the **MIT License**.  
+You are free to use, modify, and distribute the code with proper attribution.
+
+- 🔗 [MIT License](https://opensource.org/licenses/MIT)  
