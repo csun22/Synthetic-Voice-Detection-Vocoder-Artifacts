@@ -65,7 +65,7 @@ python eval.py --input_path /your/path/to/sample.wav --model_path /your/path/to/
 
 Download the trained model weights from the link below:
 ```bash
-https://drive.google.com/file/d/1TWdsCFKP2luAfhpB91N9X4z1gsJMvvhI/view?usp=drive_link
+https://ubuffalo-my.sharepoint.com/:u:/g/personal/csun22_buffalo_edu/Edo9IdZWWM1cQ7a8ChIzOwMBpSeQThRZv4ntnksi49dRRg?e=WDsrRN
 ```
 
 ### 🌐 In-the-Wild Testing
