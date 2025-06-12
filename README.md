@@ -43,7 +43,7 @@ Here is the framework of the proposed synthesized voice detection method:
   **[AI-Synthesized Voice Detection Using Neural Vocoder Artifacts – CVPRW 2023](https://openaccess.thecvf.com/content/CVPR2023W/WMF/html/Sun_AI-Synthesized_Voice_Detection_Using_Neural_Vocoder_Artifacts_CVPRW_2023_paper.html)**
 
 - 📦 Dataset:  
-  **[Download LibriSeVoc](https://ubuffalo-my.sharepoint.com/:u:/g/personal/csun22_buffalo_edu/Ed6tZWB6urtVxZMyB4pXn30BIgfRZKkwE8-1lrTFjQFLxg?e=iauwl5)**
+  **[Download LibriSeVoc](https://drive.google.com/file/d/1Zh6b51S1WIsFjdCDRTQhYW61CQ0Ue1lk/view?usp=sharing)**
 
 ---
 
@@ -65,7 +65,7 @@ python eval.py --input_path /your/path/to/sample.wav --model_path /your/path/to/
 
 Download the trained model weights from the link below:
 ```bash
-https://ubuffalo-my.sharepoint.com/:u:/g/personal/csun22_buffalo_edu/Edo9IdZWWM1cQ7a8ChIzOwMBpSeQThRZv4ntnksi49dRRg?e=WDsrRN
+https://drive.google.com/file/d/15qOi26czvZddIbKP_SOR8SLQFZK8cf8E/view?usp=sharing
 ```
 
 ### 🌐 In-the-Wild Testing
